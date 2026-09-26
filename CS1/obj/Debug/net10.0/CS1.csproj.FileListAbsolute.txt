@@ -1,0 +1,14 @@
+/Users/santiagorobles/Desktop/CSharp/CS1/bin/Debug/net10.0/CS1
+/Users/santiagorobles/Desktop/CSharp/CS1/bin/Debug/net10.0/CS1.deps.json
+/Users/santiagorobles/Desktop/CSharp/CS1/bin/Debug/net10.0/CS1.runtimeconfig.json
+/Users/santiagorobles/Desktop/CSharp/CS1/bin/Debug/net10.0/CS1.dll
+/Users/santiagorobles/Desktop/CSharp/CS1/bin/Debug/net10.0/CS1.pdb
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.AssemblyInfoInputs.cache
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.AssemblyInfo.cs
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.csproj.CoreCompileInputs.cache
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.dll
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/refint/CS1.dll
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.pdb
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/CS1.genruntimeconfig.cache
+/Users/santiagorobles/Desktop/CSharp/CS1/obj/Debug/net10.0/ref/CS1.dll
